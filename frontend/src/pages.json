@@ -1,0 +1,73 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "StrokeGuard",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/detect/detect-method",
+			"style": {
+				"navigationBarTitleText": "检测方式",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/medical-record/medical-record",
+			"style": {
+				"navigationBarTitleText": "我的病历",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/manual-input/manual-input",
+			"style": {
+				"navigationBarTitleText": "基本信息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/manual-input/lifestyle-info",
+			"style": {
+				"navigationBarTitleText": "生活习惯",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/manual-input/symptom-select",
+			"style": {
+				"navigationBarTitleText": "症状选择",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/medical-record/record-detail",
+			"style": {
+				"navigationBarTitleText": "病历详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/medical-record/detect-status",
+			"style": {
+				"navigationBarTitleText": "检测进度",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/medical-record/report",
+			"style": {
+				"navigationBarTitleText": "检测报告",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "StrokeGuard",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
